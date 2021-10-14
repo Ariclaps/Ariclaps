@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ariclaps
-- 👀 I’m interested in physics
+- 👀 I’m interested in astrophysics
 - 🌱 I’m currently learning programming with c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: claps.1967177@studenti.uniroma1.it
